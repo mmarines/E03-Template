@@ -1,21 +1,27 @@
-## Branch A
+## Branch A - Explored
 
-triangles around face
-triangles for fangs
+triangles around face.
+triangles for fangs.
 
-happy vampire sun
+happy vampire sun.
 
-## Branch B
+Made the vampire sun but he is not happy, rather dissappointed.
 
-maybe a league of legends champion I drew in MS paint
-some random photo off the internet
+## Branch B - Explored
 
-whatver I can find I don't really have time
+maybe a league of legends champion I drew in MS paint.
+some random photo off the internet.
 
-## Branch C
+whatver I can find I don't really have time.
 
-bezier curve smile
-gradient painting in the background
-maybe gradient the face
+League of Legends fan cheering at their favorite event.
 
-a simple man
+## Branch C - Explored
+
+bezier curve smile.
+gradient painting in the background.
+maybe gradient the face.
+
+a simple man.
+
+Made the whole face a gradient; hes a happy little alien.
